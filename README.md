@@ -1,7 +1,9 @@
 # Statistics-For-Data-Science-Project
 
-This Project focuses on predicting the likelihood of depression among students by using **"Machine Learning Algorithms"**.
-Basically, I applied **Linear Regression** and **Support Vector Machine (SVM)** models to analyze the student data and predict the signs of depression.
+## Topic: Predicting Student Depression Using Machine Learning and Neural Networks
+
+This Project focuses on predicting the likelihood of depression among students by applying different algorithms **"Machine Learning Algorithms"**.
+Essentially, I applied linear regression and support vector machine (SVM) models to analyze the student data and predict the signs of depression.
 
 
 ## ✨ Features
